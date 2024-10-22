@@ -1,0 +1,5 @@
+export enum EventName {
+  VICTORY = 'VICTORY',
+  LEADING_VICTORY = 'LEADING_VICTORY',
+  DEFEAT = 'DEFEAT',
+}
